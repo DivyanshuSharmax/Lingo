@@ -35,7 +35,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next14-duolingo-clone.git
+git clone https://github.com/DivyanshuSharmax/Lingo.git
 ```
 
 ### Install packages
